@@ -1,0 +1,6 @@
+name: Main
+version: '${project.version}'
+main: fly.main.Main
+api-version: 1.19
+commands:
+  fly:
